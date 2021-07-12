@@ -77,9 +77,6 @@
                         <p>
                             <a href="mailto:informes@academiageuni.org">informes@academiageuni.org</a>
                         </p>
-                        <p>
-                            <a href="mailto:contacto@academiageuni.org">contacto@academiageuni.org</a>
-                        </p>
                     </div>
                 </div>
             </li>
