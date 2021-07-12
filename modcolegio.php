@@ -12,8 +12,7 @@
                 <h1 class="text-left pt-3 pb-3 display-3"><b>MODALIDAD COLEGIO</b></h1>
                 <p class="text-service blockquote lead">Este año el Colegio Albert Eintein tiene un convenio educativo con nosotros, con el fin de que continues con tus clases del cole, preparándote al mismo tiempo para la Universidad desde tu momento escolar en este nuevo <b>Año Escolar 2021.</b></p>
                 <h3>Dirigido a</h3>
-                        <p class="blockquote lead"><b>Estudiantes de primaria y secundaria de cualquier parte del país.</b> Guiándole en el desarrollo de sus habilidades duras (Matemáticas | Comunicación | Ciencias) y habilidades blandas (Desarrollo Emocional - Autonomía - Construcción de Aprendizaje)</p>
-                        <img src="img/svgcolegio.svg" class="img-fluid">          
+                        <p class="blockquote lead"><b>Estudiantes de primaria y secundaria de cualquier parte del país.</b> Guiándole en el desarrollo de sus habilidades duras (Matemáticas | Comunicación | Ciencias) y habilidades blandas (Desarrollo Emocional - Autonomía - Construcción de Aprendizaje)</p>     
                 <h3>Ofrecemos</h3>
 
                     <p class="blockquote lead"><span><i class="bi bi-check2-square"></i></span> Soporte académico y psicológico en las tardes.</p>
@@ -24,7 +23,7 @@
 
             </div>
             <div class="col-md-5">
-                <img src="img/modcolegio.jpg" class="img-fluid">
+                <img src="img/svgcolegio.svg" class="img-fluid">
                 <h3 class="text-center pt-3">Horarios y Cursos</h3>
                 <!-- COLLAPSER-->
                 <p class="text-center">

@@ -18,10 +18,10 @@
     
 <!-- Container whatsapp y messenger -->
 <div class="container-redes">
-   <a href="https://m.me/academiageunilamolina" target="_blank">
+   <a href="https://m.me/academiageunilamolina" target="_blank" hidden>
       <img src="img/icon-messenger.webp" alt="">
    </a>
-   <a href="https://api.whatsapp.com/send?phone=51961893388&text=Hola, me gustaría recibir informes" target="_blank">
+   <a href="https://api.whatsapp.com/send?phone=51980535010&text=Hola, me gustaría recibir informes" target="_blank">
       <img src="img/icon-whatsapp.webp" alt="">
    </a>
 </div>

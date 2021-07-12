@@ -24,6 +24,7 @@
             </div>
             <div class="col-md-5">
                 <img src="img/svguniv.svg" class="img-fluid">
+                <h3 class="text-center pb-3">Solicita tu clase privada</h3>
                 <!-- COLLAPSER-->
                 <p class="text-center d-grid gap-2 col-6 mx-auto">
                 <a class="btn btn-outline-primary btn-lg" style="border-radius: 60px;" data-bs-toggle="collapse" href="#primaria" role="button" aria-expanded="false" aria-controls="collapseExample">

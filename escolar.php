@@ -24,6 +24,7 @@
             </div>
             <div class="col-md-5">
                 <img src="img/svgescolar.svg" class="img-fluid">
+                <h3 class="text-center">Inicio de clases: 1 y 15 de cada mes</h3>
                 <h3 class="text-center">Turnos y horarios</h3>
                 <!-- COLLAPSER-->
                 <p class="text-center">
@@ -48,7 +49,7 @@
                                 </div>
                             </div>
                             <h5>Horario:</h5>
-                            <p>Lunes - Miércoles - Viernes<br> Dos horas pedagógicas cada días</p>                 
+                            <p>Lunes - Miércoles - Viernes<br> Dos horas pedagógicas cada días</p>                
                             <h5>Cursos:</h5>
                             <div class="row">
                                 <div class="col">
@@ -76,7 +77,8 @@
                                 </div>
                             </div>
                             <h5>Horario:</h5>
-                            <p>Lunes - Miércoles - Viernes o Martes - Jueves - Sábados<br> Dos horas pedagógicas cada días</p>
+                            <p>Lunes - Miércoles - Viernes o 
+                            Martes - Jueves - Sábados<br> Dos horas pedagógicas cada días</p>
                             <h5>Cursos:</h5>
                             <div class="row">
                                 <div class="col">

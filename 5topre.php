@@ -25,6 +25,7 @@
             </div>
             <div class="col-md-5">
                 <img src="img/svg5topre.svg" class="img-fluid">
+                <h3 class="text-center">Inicio de clases: 1 y 15 de cada mes</h3>
                 <h3 class="text-center">Turnos y horarios</h3>
                 <!-- COLLAPSER-->
                 <p class="text-center">
