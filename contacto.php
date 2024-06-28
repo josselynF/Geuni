@@ -59,7 +59,6 @@
                           </svg>                    </div>
                     <div class="col-md-9 text-left">
                         <h6>Location</h6>
-                        <p>Av. Los cóndores 460. La Molina</p>
                         <p>Calle La Docencia 164 Urb. Covima. La Molina (Alt cdra 69 Jav. Prado)</p>
                     </div>
                 </div>

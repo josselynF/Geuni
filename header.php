@@ -40,10 +40,7 @@
                   <li><a class="dropdown-item" href="universitario.php">Asesoria Universitaria</a></li>
                 </ul>
               </li>
-              <li class="nav-item">
-                <a class="nav-link text-light cool-link" href="modcolegio.php">Modalidad Colegio</a>
-              </li>
-              <li class="nav-item">
+              <li class="nav-item" hidden>
                 <a class="nav-link text-light cool-link" href="virtual.php">Geuni virtual</a>
               </li>
               <li class="nav-item">

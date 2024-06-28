@@ -52,7 +52,7 @@
     
             </section>
             <!-- Section: Social media -->
-        <p class="text-center">&copy; 2021 Academia Geuni. &middot;  Todos los derechos reservados. </p>
+        <p class="text-center">&copy; <span id="year"></span> Academia Geuni. &middot;  Todos los derechos reservados. </p>
       </footer>
 
     <!-- Optional JavaScript; choose one of the two! -->
@@ -62,6 +62,7 @@
     <script src="js/script.js"></script>
     <script src="js/poper.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
     <!-- Option 2: Separate Popper and Bootstrap JS -->
 </body>
 </html>
